@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/elf_parser.h
+cstdint
+-
+iosfwd
+-
+
+C:/Homeworks/ACOS/HW3/src/elf_parser.cpp
+elf_parser.h
+C:/Homeworks/ACOS/HW3/src/elf_parser.h
+fstream
+-
+vector
+-
+string
+-
+cstdio
+-
+stdexcept
+-
+bitset
+-
+map
+-
+

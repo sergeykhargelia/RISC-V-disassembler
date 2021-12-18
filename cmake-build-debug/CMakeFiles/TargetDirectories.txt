@@ -1,0 +1,3 @@
+C:/Homeworks/ACOS/HW3/cmake-build-debug/CMakeFiles/hw3.dir
+C:/Homeworks/ACOS/HW3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Homeworks/ACOS/HW3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
